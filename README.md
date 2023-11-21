@@ -1,5 +1,5 @@
 # Microservices 
- Technology stack <br> <br> <br>
+ Technology stack <br> 
  Node.js <br>
  Express <br>
  solr <br>
