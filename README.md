@@ -1,7 +1,6 @@
-# microservices
-This is contains company,employee,user Microservices that is written with the clean code architecture 
+# microservices 
 Technology stack
- Node.js /n
+ # Node.js 
  Express/n
  solr
  Joi validation
