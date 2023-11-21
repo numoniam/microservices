@@ -1,10 +1,10 @@
 # Microservices 
 # Technology stack
- Node.js 
- Express/n
- solr
- Joi validation
- clean code architecture
- cockroachDb
- migration
- test-cases
+ Node.js <br>
+ Express <br>
+ solr <br>
+ Joi validation <br> 
+ clean code architecture <br>
+ cockroachDb <br>
+ Database migration <br>
+ test-cases <br>
